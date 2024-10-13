@@ -1,0 +1,153 @@
+[18:17:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Eclipse Adoptium Temurin-21.0.4+7) on Linux 6.5.0-1025-azure (amd64)
+[18:17:38] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.1-2324-ver/1.21.1@e12a4de (2024-10-09T23:26:12Z) for Minecraft 1.21.1
+[18:17:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:17:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[18:17:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+ - BungeeGuard (1.4.5), ViaBackwards (5.0.3), ViaRewind (4.0.2), ViaRewind-Legacy-Support (1.5.1), ViaVersion (5.0.3), nLogin (10.4.9)
+[18:17:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:17:47] [ServerMain/INFO]: Loaded 1290 recipes
+[18:17:48] [ServerMain/INFO]: Loaded 1399 advancements
+[18:17:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:17:48] [Server thread/INFO]: Loading properties
+[18:17:49] [Server thread/INFO]: This server is running Purpur version 1.21.1-2324-ver/1.21.1@e12a4de (2024-10-09T23:26:12Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[18:17:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:17:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:17:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:17:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[18:17:53] [Server thread/WARN]: [Pufferfish] SIMD operations are available for your server, but are not configured!
+[18:17:53] [Server thread/WARN]: [Pufferfish] To enable additional optimizations, add "--add-modules=jdk.incubator.vector" to your startup flags, BEFORE the "-jar".
+[18:17:53] [Server thread/WARN]: [Pufferfish] If you have already added this flag, then SIMD operations are not supported on your JVM or CPU.
+[18:17:53] [Server thread/WARN]: [Pufferfish] Debug: Java: 21.0.4, test run: true
+[18:17:53] [Server thread/INFO]: Default game type: SURVIVAL
+[18:17:53] [Server thread/INFO]: Generating keypair
+[18:17:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:17:53] [Server thread/INFO]: Using epoll channel type
+[18:17:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:17:53] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[18:17:55] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[18:17:55] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[18:17:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:17:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:17:59] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:17:59] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:18:01] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[18:18:01] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[18:18:01] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[18:18:01] [Server thread/INFO]: [BungeeGuard] Loading server plugin BungeeGuard v1.4.5
+[18:18:01] [Server thread/INFO]: [nLogin] Loading server plugin nLogin v10.4.9
+[18:18:02] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading server plugin ViaRewind-Legacy-Support v1.5.1
+[18:18:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:18:02] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[18:18:02] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.4.5
+[18:18:02] [Server thread/INFO]: [BungeeGuard] Using Paper's PlayerHandshakeEvent to listen for connections.
+[18:18:03] [Server thread/INFO]: [nLogin] Enabling nLogin v10.4.9
+[18:18:04] [Server thread/INFO]: [nLogin] Successful plugin core start (took 1.10s)
+[18:18:04] [Server thread/INFO]:           __             _       
+[18:18:04] [Server thread/INFO]:   _ __   / /  ___   __ _(_)_ __  
+[18:18:04] [Server thread/INFO]:  | '_ \ / /  / _ \ / _` | | '_ \ 
+[18:18:04] [Server thread/INFO]:  | | | / /__| (_) | (_| | | | | |
+[18:18:04] [Server thread/INFO]:  |_| |_\____/\___/ \__, |_|_| |_|
+[18:18:04] [Server thread/INFO]:                   |___/            
+[18:18:04] [Server thread/INFO]:  By: www.nickuc.com - V 10.4.10 DEVELOPMENT
+[18:18:04] [Server thread/INFO]:  
+[18:18:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:18:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:18:04] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[18:18:04] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[18:18:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:18:04] [Server thread/INFO]: Preparing level "world"
+[18:18:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:18:07] [Server thread/INFO]: Time elapsed: 1696 ms
+[18:18:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:18:07] [Server thread/INFO]: Time elapsed: 289 ms
+[18:18:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:18:07] [Server thread/INFO]: Time elapsed: 154 ms
+[18:18:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[18:18:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[18:18:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[18:18:07] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.5.1
+[18:18:07] [Server thread/ERROR]: [ViaRewind-Legacy-Support] Could not fix ladder bounding box.
+java.lang.NoSuchMethodException: net.minecraft.world.phys.shapes.VoxelShape.initCache()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2848) ~[?:?]
+	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredMethod(AbstractDefaultRulesReflectionProxy.java:95) ~[reflection-rewriter-runtime-0.0.3.jar:?]
+	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredMethod(Unknown Source) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setVoxelShapeArray(BlockCollisionChanges.java:157) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setBoundingBox(BlockCollisionChanges.java:86) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.fixLadder(BlockCollisionChanges.java:70) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.enable(BukkitPlugin.java:74) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.onEnable(BukkitPlugin.java:50) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:654) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:603) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:757) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:519) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:18:07] [Server thread/ERROR]: [ViaRewind-Legacy-Support] Could not fix lily pad bounding box.
+java.lang.NoSuchMethodException: net.minecraft.world.phys.shapes.VoxelShape.initCache()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2848) ~[?:?]
+	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredMethod(AbstractDefaultRulesReflectionProxy.java:95) ~[reflection-rewriter-runtime-0.0.3.jar:?]
+	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredMethod(Unknown Source) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setVoxelShapeArray(BlockCollisionChanges.java:157) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setBoundingBox(BlockCollisionChanges.java:86) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.fixLilyPad(BlockCollisionChanges.java:39) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.enable(BukkitPlugin.java:86) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.onEnable(BukkitPlugin.java:50) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:654) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:603) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:757) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:519) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:18:07] [Server thread/ERROR]: [ViaRewind-Legacy-Support] Could not fix carpet bounding box.
+java.lang.NoSuchMethodException: net.minecraft.world.phys.shapes.VoxelShape.initCache()
+	at java.base/java.lang.Class.getDeclaredMethod(Class.java:2848) ~[?:?]
+	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredMethod(AbstractDefaultRulesReflectionProxy.java:95) ~[reflection-rewriter-runtime-0.0.3.jar:?]
+	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredMethod(Unknown Source) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setVoxelShapeArray(BlockCollisionChanges.java:157) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.setBoundingBox(BlockCollisionChanges.java:86) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.feature.BlockCollisionChanges.fixCarpet(BlockCollisionChanges.java:50) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.enable(BukkitPlugin.java:90) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at ViaRewind-Legacy-Support-1.5.1.jar/com.viaversion.viarewind.legacysupport.BukkitPlugin.onEnable(BukkitPlugin.java:50) ~[ViaRewind-Legacy-Support-1.5.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:654) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:603) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:757) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:519) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1230) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:333) ~[purpur-1.21.1.jar:1.21.1-2324-e12a4de]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[18:18:07] [Server thread/INFO]: [spark] Starting background profiler...
+[18:18:08] [Server thread/INFO]: Done preparing level "world" (3.624s)
+[18:18:08] [Server thread/INFO]: Running delayed init tasks
+[18:18:08] [Server thread/INFO]: Done (31.032s)! For help, type "help"
+[18:18:08] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[18:18:17] [User Authenticator #0/INFO]: UUID of player mohawktayler2 is 5397da81-c8dc-38c1-93a1-8db84796bfd4
+[18:18:17] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.17->1.16.4) Increased world height is NOT SUPPORTED for 1.16 players and below. They will see a void below y 0 and above 256. You can enable the `bedrock-at-y-0` config option to replace the air with a bedrock layer.
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|GetDomain
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Voice-1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|UpdateCert-1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-RPC
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Skins-1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|1.8-Ready
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|FNAWSEn-1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring plugin channel in serverbound REGISTER: EAG|Capes-1.8
+[18:18:18] [Netty Epoll Server IO #1/WARN]: [ViaVersion] (1.13->1.12.2) Ignoring serverbound plugin message with channel: EAG|1.8-Ready
+[18:18:18] [Server thread/INFO]: mohawktayler2[/[0:0:0:0:0:0:0:1]:52106] logged in with entity id 93 at ([world]1.4512958280251524, 66.0, 46.20774530243833)
+[18:19:42] [Server thread/INFO]: mohawktayler2 lost connection: Disconnected
